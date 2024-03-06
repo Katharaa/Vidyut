@@ -1,5 +1,5 @@
 # Vidyut
-(##Power Outage Reporting and Prediction System)
+(Power Outage Reporting and Prediction System)
 
 ## Overview
 The Power Outage Reporting and Prediction System is an Android application accompanied by IoT hardware designed to address the concern of power failures in Kerala. The system aims to improve communication and awareness among consumers by allowing them to report power outages and receive real-time updates on restoration times. Additionally, the system includes features for monitoring power consumption levels.
